@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tooba</h1>
-<h3 align="center">A front-end developer</h3>
+<h3 align="center">A JavaScript developer</h3>
 
 <p align="left"> <a href="https://twitter.com/codingmysoul" target="blank"><img src="https://img.shields.io/twitter/follow/codingmysoul?logo=twitter&style=for-the-badge" alt="codingmysoul" /></a> </p>
 
