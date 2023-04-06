@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tooba</h1>
 <h3 align="center">A JavaScript developer</h3>
 
-<p align="left"> <a href="https://twitter.com/codingmysoul" target="blank"><img src="https://img.shields.io/twitter/follow/codingmysoul?logo=twitter&style=for-the-badge" alt="codingmysoul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codingjoyy" target="blank"><img src="https://img.shields.io/twitter/follow/codingjoyy?logo=twitter&style=for-the-badge" alt="codingjoyy" /></a> </p>
 
 - 🌱 I’m currently learning **Node**
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codingmysoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingmysoul" height="30" width="40" /></a>
+<a href="https://twitter.com/codingjoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingjoyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tooba-jamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tooba-jamal" height="30" width="40" /></a>
-<a href="https://instagram.com/codingmysoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmysoul" height="30" width="40" /></a>
+<a href="https://instagram.com/codingjoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingjoyy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
