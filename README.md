@@ -34,6 +34,7 @@ Hit me up on 👇
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </div>
 
  ## 🚀 I am currently exploring
