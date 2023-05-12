@@ -51,4 +51,4 @@ Hit me up on 👇
   <img src="https://github-readme-stats.vercel.app/api/?username=toobajamal&count_private=true&bg_color=6C3483&hide_border=true&title_color=F5EEF8&text_color=EC7063&show_icons=true&icon_color=F7DC6F""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats Tooba Jamal">
 </div>
 
-## 🏆 Accomplishments, Contribution, and Community Activities
+
