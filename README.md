@@ -1,6 +1,17 @@
 # Hi, I'm Tooba <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 <h3 align="center">I am a Software Developer specializing in Web Development and Machine Learning</h3>
 
+### Experience
+- Curriculum Developer @ Mimo
+- Software Developer @ The Collab Lab
+- Software Engineer @ One Community Global
+
+### Volunteering
+- JavaScript Mentor @ Exercism
+- Code Reviewer @ Scrimba
+
+### More about me
+
 I have a passion for learning new things daily and sharing them with others through writing.
 
 I have published programming tutorials in famous publications including [Towards Data Science](https://tooba-jamal.medium.com/), [Jovian](https://tooba-jamal.medium.com/), and [FreeCodeCamp](https://www.freecodecamp.org/news/author/tooba/)
