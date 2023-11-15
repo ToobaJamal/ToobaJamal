@@ -2,6 +2,7 @@
 <h3 align="center">I am a Software Developer specializing in Web Development and Machine Learning</h3>
 
 ### Experience
+- Technical Writer @ Ably
 - Curriculum Developer @ Mimo
 - Software Developer @ The Collab Lab
 - Software Engineer @ One Community Global
